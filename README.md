@@ -22,7 +22,7 @@ The assistant is capable of:
 ### Installation Requirements
 Ensure the following Python libraries are installed:
 ```bash
-pip install transformers torch accelerate sentencepiece
+!pip install transformers torch accelerate sentencepiece
 ```
 
 ### How to Use
