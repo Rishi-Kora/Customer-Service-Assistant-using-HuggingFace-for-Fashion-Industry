@@ -1,4 +1,4 @@
-# Fashion Customer Service Assistant using Hugging Face
+# Customer Service Assistant using Hugging Face for Fashion Industry
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) \[![Python Version](https://img.shields.io/badge/python-3.8%2B-orange.svg)]
 
