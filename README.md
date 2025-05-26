@@ -1,6 +1,6 @@
 # Customer Service Assistant using Hugging Face for Fashion Industry
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) \[![Python Version](https://img.shields.io/badge/python-3.8%2B-orange.svg)]
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) \![Python Version](https://img.shields.io/badge/python-3.8%2B-orange.svg)
 
 A smart, context-aware virtual assistant designed to handle customer inquiries for fashion e-commerce using state-of-the-art NLP models from Hugging Face.
 
