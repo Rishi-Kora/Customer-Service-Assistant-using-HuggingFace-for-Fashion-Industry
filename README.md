@@ -10,7 +10,6 @@ A smart, context-aware virtual assistant designed to handle customer inquiries f
 
 * [About The Project](#about-the-project)
 * [Features](#features)
-* [Demo](#demo)
 * [Getting Started](#getting-started)
 * [Prerequisites](#prerequisites)
 * [Installation](#installation)
@@ -43,15 +42,6 @@ Key goals:
 * 🛠️ **Flexible model choices**: Swap between `DialoGPT`, `BlenderBot`, `T5`, or custom fine-tuned models.
 * ⚙️ **Pipeline-based architecture**: Leverages Hugging Face `pipeline()` for streamlined inference.
 
-## Demo
-
-<br />
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/YOUR-USER-ID/demo.gif" alt="Demo of Fashion Assistant" width="600" />
-</p>
-<br />
-
-*Screenshot: A snippet of a conversation between a user and the assistant.*
 
 ## Getting Started
 
